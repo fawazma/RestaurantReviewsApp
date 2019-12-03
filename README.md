@@ -39,7 +39,7 @@ Fawaz Bukhowa<br/>
 ## Instructions:
 - Open Terminal and clone the repository using:
 ```
-https://github.com/fawazma/RestaurantReviewsApps.git
+https://github.com/fawazma/RestaurantReviewsApp.git
 ```
 - Then, locate **public** file and launch a local client server using Python from your terminal:<br/>
 
