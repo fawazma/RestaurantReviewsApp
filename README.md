@@ -47,7 +47,7 @@ Python 2: <br/>
 ```
 python -m SimpleHTTPServer 8000
 ```
-Python 3: <br/>
+Python 3: (OPTION 2)<br/>
 ```
 python3 -m http.server 8000
 ```
