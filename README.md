@@ -43,11 +43,11 @@ https://github.com/fawazma/RestaurantReviewsApp.git
 ```
 - Then, locate **public** file and launch a local client server using Python from your terminal:<br/>
 
-Python 2: <br/>
+Python 2: (OPTION A)<br/>
 ```
 python -m SimpleHTTPServer 8000
 ```
-Python 3: (OPTION 2)<br/>
+Python 3: (OPTION B)<br/>
 ```
 python3 -m http.server 8000
 ```
